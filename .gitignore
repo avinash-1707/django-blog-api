@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+env/
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secret keys
+.env
+local_settings.py
